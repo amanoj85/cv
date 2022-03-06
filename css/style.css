@@ -1,0 +1,253 @@
+body{
+  background-color: #252525;
+  margin: 0 180px;
+  text-align: center;
+font-family: 'Nunito', sans-serif;
+  }
+
+
+/* navigation section */
+
+.navbar{
+  padding: 1% 10% 1% 30%;
+}
+
+.nav-item{
+  padding: 0 10px;
+  font-size: 1rem;
+}
+
+.navbar-nav .nav-item .nav-link:hover{
+  color: #FF0000;
+}
+
+/* profile section */
+
+#profile{
+background-color: #FFEEAD;
+padding: 20% 20%;
+/* border-style: outset;
+border-width: thick; */
+}
+
+.pro-pic{
+border-radius: 100%;
+width: 30%;
+}
+
+h3{
+text-transform: uppercase;
+  font-weight: 700;
+font-size: 2rem;
+  }
+
+  h5{
+    text-align: left;
+    padding: 3% 0 1% 0;
+    font-weight: bold;
+  }
+
+p, ul{
+  font-size: 1.2rem;
+
+}
+
+.name{
+  padding-top: 2rem;
+  font-size: 4rem;
+  color: #FF0000;
+}
+
+.job-des{
+  font-size: 1.5rem;
+  font-weight: 700;
+
+}
+
+
+/* Aboutus section */
+
+#aboutus{
+color: #FF0000;
+  padding: 20%;
+  background-color: #fff;
+  /* border-style: outset;
+  border-width: thick; */
+  padding-bottom: 1% 1%;
+}
+
+.about-para{
+  padding-top: 3%;
+  color: #000000;
+}
+
+
+/* Experience section */
+
+#exp-sec{
+padding: 10% 0 5%;
+color: #FF0000;
+}
+
+.exp-sec-hig{
+  padding-top: auto;
+}
+
+.para-sec{
+  text-align: left;
+  color: #fff;
+}
+
+.far{
+  color: #FF0000;
+  padding-right: 1%;
+}
+
+/* Education section */
+
+#edu-sec{
+background-color: #F74865;
+padding: 10% 0 5% ;
+color: #fff;
+
+}
+
+.edu-list{
+  color: #fff;
+  text-align: center;
+  padding-top: 5%;
+}
+
+.course-img{
+  width: 15%;
+}
+.carousel-item{
+  color: #fff;
+  text-align: center;
+  padding: 5% 5% 7% 5%;
+}
+
+
+/* Technical section */
+
+#tec-skill{
+color: #FF0000;
+background-color: #fff;
+padding: 12% 0 12% ;
+}
+
+.col-img{
+  padding-top: 7%;
+  color: #000;
+}
+
+.icon:hover{
+  color: #FF0000;
+}
+
+.tec-text{
+  padding-top: 20%;
+  line-height: 2;
+  color: #000;
+}
+
+/* Professional summary section */
+
+#pro-sum{
+background-color: #FFEEAD;
+  color: #FF0000;
+  padding: 10% 0 10%;
+}
+
+.col-text{
+  color: #000;
+  text-align: center;
+    padding-top: 3%;
+}
+
+.card{
+  padding: 10%;
+}
+
+hr{
+  border-style: none;
+  border-top-style: solid;
+  border-color: #fff;
+  border-width: 3px;
+}
+
+/* mockups section */
+#mockups{
+  background-color: #fff;
+  padding: 10% 10%;
+}
+.moc-link{
+  text-decoration: none;
+}
+.moc-text{
+  color: #FF0000;
+  padding: 5% 5%;
+}
+
+.btn-moc{
+  margin: 10px 10px;
+  margin-right: 5px;
+  padding: 6%;
+border-style: outset;
+}
+
+.btn-moc:hover{
+  opacity: 70%;
+background-color: #FF0000;
+color: #fff;
+}
+
+/* back button */
+
+.back-arrow{
+color: #fff;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.back-arrow:hover{
+  color: #FF0000;
+}
+
+
+/* app image mockups */
+.m-img{
+  border-style: outset;
+}
+
+.moc-img{
+  border-style: outset;
+  float: left;
+    margin: 10px 15px;
+}
+
+
+
+/* footer section */
+
+#contact{
+  color: #fff;
+  padding: 10% 10%;
+}
+
+.soc-text{
+  color: #FF0000;
+  font-size: 1rem;
+  padding-bottom: 1%;
+}
+
+.soc-link{
+  color: #fff;
+}
+
+.soc-link:hover{
+  color: #FF0000;
+}
+.social-icon{
+  margin: 10px 15px;
+}
